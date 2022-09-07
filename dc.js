@@ -24,7 +24,8 @@ var api=[{"id":135,"fullName":"Ajinkya Rahane","shortName":"A Rahane","nationali
 {"id":3646,"fullName":"Tom Curran","shortName":"T Curran","nationality":"English","dateOfBirth":"1995-03-12","rightArmedBowl":true,"rightHandedBat":true,"bowlingStyle":"FAST_SEAM"},
 {"id":2756,"fullName":"Sam Billings","shortName":"S Billings","nationality":"English","dateOfBirth":"1991-06-15","rightArmedBowl":true,"rightHandedBat":true},
 {"id":6800,"fullName":"Shams Mulani","shortName":"S Mulani","nationality":"Indian","dateOfBirth":"1997-03-13","rightArmedBowl":false,"rightHandedBat":false,"bowlingStyle":"ORTHODOX"},
-{"id":4949,"fullName":"Aniruddha Joshi","shortName":"A Joshi","nationality":"Indian","dateOfBirth":"1987-11-07","rightArmedBowl":true,"rightHandedBat":true,"bowlingStyle":"OFF_SPIN"}]
+{"id":4949,"fullName":"Aniruddha Joshi","shortName":"A Joshi","nationality":"Indian","dateOfBirth":"1987-11-07","rightArmedBowl":true,"rightHandedBat":true,"bowlingStyle":"OFF_SPIN"},
+{"id":4949,"fullName":"Asutosh Das","shortName":"A Das","nationality":"Indian","dateOfBirth":"1987-11-07","rightArmedBowl":true,"rightHandedBat":true,"bowlingStyle":"OFF_SPIN"}]
 
 
 
